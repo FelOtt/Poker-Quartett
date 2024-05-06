@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="G8_Quartett.cKarte">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAA=</HashCode>
+      <FileName>cKarte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="G8_Quartett.cSpieler">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cSpieler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="G8_Quartett.cSpielverwaltung">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAEAAAAMAAAAAAAAAAAAE=</HashCode>
+      <FileName>cSpielverwaltung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="G8_Quartett.cDeck">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQgAAAAAAAAA=</HashCode>
+      <FileName>cDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
